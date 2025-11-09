@@ -1,51 +1,99 @@
+<!-- Header -->
 <div align="center">
-  <h1> I'm Kuralarasan S</h1>
-  <p>Passionate about the world of data, software development, and continuous learning.</p>
+  <h1 style="font-size: 38px; font-weight: 700;">Hi, I'm Kuralarasan S</h1>
+  <p style="font-size: 17px; max-width: 600px;">
+    Cloud and Network Engineer skilled in AWS, Linux, networking fundamentals, and automation.  
+    I build secure, scalable, and reliable cloud environments.
+  </p>
 </div>
 
-<br>
+---
+
+<!-- Animated Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🔧 Skills & Technologies
+
+### Cloud (AWS)
+- EC2, S3, RDS, IAM, VPC  
+- CloudFront, Route 53, Load Balancing  
+- Auto Scaling, CloudWatch, KMS  
+
+### Networking
+- IP addressing & subnetting  
+- DNS, DHCP, NAT, VPN concepts  
+- TCP/IP, firewalls, Security Groups, NACLs  
+
+### Linux & Automation
+- Linux administration  
+- Bash & Shell scripting  
+- Log analysis and troubleshooting  
+
+### Programming & Tools
+- Python  
+- SQL/MySQL  
+- Git, AWS CLI  
 
 ---
 
-A quick look at my skills and what I'm currently working on!
+## 📌 Featured Projects
 
-| 🚀 **Core Skills** | 🛠️ **Tools & Technologies** |
-|-------------------------------|--------------------------------|
-| **Data Science** 📈             | **Python**, **SQL** |
-| **Web Development** 🌐          | **HTML**, **CSS**, **JavaScript** |
-| **Data Visualization** 🎨       | **Power BI**, **Excel** |
-| **Data Analysis Libraries** 📚 | **Pandas**, **NumPy** |
+### ✅ AWS Scalable Messaging Platform
+A fault-tolerant, production-style messaging system.
+- Multi-AZ architecture with ALB + Auto Scaling  
+- Flask app hosted on EC2  
+- RDS MySQL + S3 for storage  
+- HTTPS (ACM) and CDN (CloudFront)
 
----
-
-### ✨ Showcase Projects
-
-#### 🐝 IoT-based Apiary Monitoring System
-_A smart beehive monitoring system for real-time insights._
-* Developed using **Arduino Uno**, **ESP8266**, and various sensors to monitor temperature, humidity, and weight.
-* Integrated **Blynk IoT** for remote monitoring and automated heating via Tungsten to optimize hive health.
-
-#### 🌾 Smart Agriculture Analytics Dashboard
-_Transforming raw agricultural data into actionable insights._
-* Created a dynamic dashboard in **Power BI** to analyze crop yield, rainfall, and seasonal trends.
-* Applied data cleaning and modeling techniques to provide meaningful visualizations and business insights.
+### ✅ AWS Secure File Storage System
+A secure 3-tier application for file handling.
+- IAM roles, Security Groups, NACLs, Flow Logs  
+- KMS-encrypted S3 buckets  
+- CloudTrail + CloudWatch monitoring setup  
+- Route 53 + CloudFront optimization  
 
 ---
 
-### 📚 Education & Experience
+<!-- Animated Stats Section -->
+## 📊 GitHub Analytics
 
-#### 🎓 Education
-* **B.E Agricultural Engineering** - SRM Valliammai Engineering College
+<div align="center">
 
-#### 💼 Experience
-* **Data Science Intern** at **Vcodez sholinganallur**
-    * Assisted in data analysis, model development, and visualizations using **Python** and **Power BI**.
-    * Performed data wrangling and **EDA (Exploratory Data Analysis)** to generate actionable business insights.
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=kuralarasansjk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="55%">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuralarasansjk&layout=compact&theme=transparent&hide_border=true" width="40%">
+
+</div>
 
 ---
 
-### 🤝 Let's Connect!
+<!-- Activity Graph -->
+## 📈 Contribution Activity
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
-* **LinkedIn**: [https://www.linkedin.com/in/kuralarasan-sjk/](https://www.linkedin.com/in/kuralarasan-sjk/)
-* **Email**: kuralarasansjk@gmail.com
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuralarasansjk&theme=react&hide_border=true">
+</div>
+
+---
+
+## 🎓 Certifications
+- AWS Certified Cloud Practitioner (2025)  
+- AWS re/Start Graduate (2025)  
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kuralarasan-sjk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kuralarasansjk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/kuralarasansjk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
