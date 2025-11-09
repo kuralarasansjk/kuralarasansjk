@@ -1,134 +1,87 @@
-<!-- Center Header -->
-<div align="center">
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kuralarasan+S;Cloud+%7C+Network+Engineer;AWS+%7C+Linux+%7C+Networking+Fundamentals;Building+Secure+%26+Scalable+Cloud+Systems" alt="Typing Animation" />
-  
-  <br>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Kuralarasan%20S&fontAlign=50&fontSize=48&desc=Cloud%20%7C%20Networking%20%7C%20Data%20Analytics&descAlign=50&color=0:0A0F24,100:0B1A39&stroke=1e293b&fontColor=E6F0FF" alt="banner">
+</p>
 
-  <!-- Stylish Subtitle -->
-  <p style="font-size: 17px; max-width: 700px;">
-    Cloud and Network Engineer with hands-on experience in AWS architectures, Linux systems,  
-    networking fundamentals, and automation. Focused on clean deployments and secure infrastructure.
-  </p>
-  
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1100&center=true&vCenter=true&width=900&lines=Cloud+%26+Network+Engineer%20who+builds+secure+AWS+environments;Data+Analyst+who+turns+Python%2C+SQL%2C+Power+BI+into+clear+insights;Linux+user+who+automates+reliable+systems" alt="typing">
+</p>
+
+<p align="center">
+I work across <b>Data Analytics</b>, <b>Cloud</b>, and <b>Networking</b> — designing secure AWS setups, configuring networks, and building analytics that drive decisions.
+</p>
 
 ---
 
-<!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/gradient-wave.svg" width="100%">
+## 🔧 Tech Stack
 
-## Skills & Technologies
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github" height="36" />
+</p>
+<ul>
+  <li>VPC, EC2, ALB, Auto Scaling, RDS, S3, IAM, Route 53, CloudFront, CloudWatch, KMS</li>
+  <li>Secure architectures with SGs, NACLs, VPC Flow Logs, HTTPS (ACM)</li>
+</ul>
 
-### Cloud (AWS)
-<div align="left">
-  
-- EC2, S3, RDS, IAM, VPC  
-- Load Balancing, Auto Scaling  
-- Route 53, CloudFront  
-- CloudWatch, KMS  
+### 🌐 Networking
+<ul>
+  <li>IP addressing & subnetting · DNS · DHCP · NAT · VPN concepts · TCP/IP troubleshooting</li>
+</ul>
 
-</div>
-
-
-### Networking
-<div align="left">
-
-- IP addressing, subnetting  
-- DNS, DHCP, NAT  
-- Firewalls, NACLs, VPN basics  
-- TCP/IP fundamentals  
-
-</div>
-
-### Linux & Automation
-<div align="left">
-
-- Linux administration  
-- Bash scripting  
-- Log analysis & troubleshooting  
-
-</div>
-
-### Programming & Tools
-<div align="left">
-
-- Python  
-- SQL / MySQL  
-- Git, AWS CLI  
-
-</div>
+### 📊 Data Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="36" />
+</p>
+<ul>
+  <li>Python, SQL, Pandas, NumPy, Excel, Power BI (cleaning, modeling, visuals, EDA)</li>
+</ul>
 
 ---
 
-<!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/gradient-wave.svg" width="100%">
-
-## Featured Projects
-
-### AWS Scalable Messaging Platform
-A fault-tolerant, distributed messaging system.
-- Multi-AZ deployment with ALB + Auto Scaling  
-- Flask backend on EC2  
-- RDS MySQL + S3 integration  
-- HTTPS via ACM + CloudFront CDN  
+## 🛠️ Tools I Use
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,py,git,github,mysql" height="36" />
+</p>
 
 ---
 
-### AWS Secure File Storage System
-A secure 3-tier architecture for encrypted file handling.
-- IAM roles, Security Groups, NACLs, Flow Logs  
-- KMS-secured S3 buckets + Lifecycle Policies  
-- Monitoring via CloudTrail + CloudWatch  
-- Route 53 + CloudFront for optimization  
+## 🚀 Highlights
+- Built **scalable AWS architectures** (multi-AZ ALB+ASG, RDS MySQL, S3, CloudFront, Route 53, HTTPS).
+- Implemented **security & monitoring** (IAM roles, SG/NACL, CloudWatch, CloudTrail, S3 lifecycle).
+- Delivered **analytics** in **Power BI** and Python (EDA, cleaning, business insights).
 
 ---
 
-<!-- Section Divider -->
-<img src="https://raw.githubusercontent.com/kogisin/kogisin/main/assets/gradient-wave.svg" width="100%">
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuralarasansjk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuralarasansjk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kuralarasansjk&show_icons=true&theme=modern&hide_border=true&rank_icon=github" width="55%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuralarasansjk&layout=compact&theme=modern&hide_border=true" width="40%">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuralarasansjk&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
-## Contribution Activity
+## 📌 Featured Work
+- 🐝 **IoT Apiary Monitoring** — Arduino + ESP8266 + sensors with Blynk IoT and automated heating (Tungsten).
+- ☁️ **Secure File Sharing on AWS** — 3-tier (ALB, EC2, private subnets, RDS, KMS-encrypted S3).
+- 🌐 **Scalable Messaging Platform** — Flask on EC2 behind ALB+ASG, Multi-AZ RDS, CloudFront, Route 53.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuralarasansjk&theme=github-dark&hide_border=true">
-</div>
-
----
-
-## Certifications
-
-- AWS Certified Cloud Practitioner — 2025  
-- AWS re/Start Graduate — 2025  
+> Tip: Pin these repos on your GitHub profile (Profile → Customize your pins).
 
 ---
 
-## Connect With Me
+## 🤝 Connect
+<p align="center">
+  <a href="https://linkedin.com/in/kuralarasan-sjk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kuralarasansjk@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kuralarasansjk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kuralarasan-sjk/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:kuralarasansjk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/kuralarasansjk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<!-- Footer divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+</p>
