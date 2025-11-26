@@ -5,7 +5,7 @@
 
 <!-- Animated Identity -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&color=4DB6FF&lines=Cloud+Engineer;Network+Engineer;AWS+%7C+Linux+%7C+Networking;Data+Analytics+%7C+Python+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&color=4DB6FF&lines=Cloud+Devops;Network+Engineer;AWS+%7C+Linux+%7C+Networking;Data+Analytics+%7C+Python+%7C+Power+BI" />
 </p>
 
 <!-- Clean Subtitle -->
